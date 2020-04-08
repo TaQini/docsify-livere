@@ -31,7 +31,7 @@ The [demo](http://note.taqini.space/)  site has also installed another plugins [
 
 ### Get your `data-uid`
 
-If you've not have a livere account yet, click [here](livere.com/) to register.
+If you've not have a livere account yet, click [here](https://livere.com/) to register.
 
 You can got your `data-uid` in Code Managing page as following figure:
 
