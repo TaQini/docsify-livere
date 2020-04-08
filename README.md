@@ -4,7 +4,7 @@ LiveRe comment system for docsify.  [中文文档](taqini.space/2020/04/08/docsi
 
 >  LiveRe is an awesome comment system.
 
-![image-20200408223403019](/home/taqini/.config/Typora/typora-user-images/image-20200408223403019.png)
+![](http://image.taqini.space/img/20200408223356.png)
 
 ## Feature of LiveRe
 
