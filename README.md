@@ -1,6 +1,8 @@
 # docsify-livere
 
-LiveRe comment system for docsify.  [中文文档](taqini.space/2020/04/08/docsify-plugins)
+LiveRe comment system for docsify.  
+
+Chinese docs: [中文文档](taqini.space/2020/04/08/docsify-plugins)
 
 >  LiveRe is an awesome comment system.
 
@@ -19,7 +21,7 @@ LiveRe comment system for docsify.  [中文文档](taqini.space/2020/04/08/docsi
 
 You can see the demo of docsify-livere [here](http://note.taqini.space/) 
 
-The [demo](http://note.taqini.space/)  site has also installed another plugins [docsify-twemoji]()
+The [demo](http://note.taqini.space/)  site has also installed another plugins [docsify-twemoji](https://github.com/TaQini/docsify-twemoji/)
 
 ![](http://image.taqini.space/img/20200408220415.png)
 
